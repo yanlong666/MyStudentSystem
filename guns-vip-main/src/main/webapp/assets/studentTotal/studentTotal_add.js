@@ -161,7 +161,7 @@ var photoSwitch = false;
     var laydate = layui.laydate;
     laydate.render({
         elem: '#youthLeagueDate' //指定元素
-        
+
     });
 
 
